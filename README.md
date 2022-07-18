@@ -17,7 +17,7 @@ git clone _____my repos ssh clone id_____
 4. You now have access to edit and update the code
 
 
-## Description
+## <strong>Description<br></strong>
 I decided to create an online Diary as my first attempt to create a webpage using Python, Html and Flask.<br>
 Thought Process:
     Welcome:
@@ -44,18 +44,19 @@ Thought Process:
           user should have the ability to add/delete or edit their diary entry
           They should also be able to share their entries
 
-## Badges
+## <strong>Badges<br></strong>
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
-## Installation
-Since this code is still in the backend/production process. It can only be run from the localhosts terminal once cloning the repository.
+## <strong>Installation<br></strong>
+Since this code is still in the backend/production process. It can only be run from the localhosts terminal once cloning the repository. I will later publish the site and make it live once I am happy with the information available and layout.
 
-## Support
+## <strong>Support<br></strong>
 If you are having any issues with the webpage, please feel free to contact any one of our lead developers:<br>
-gordin95t@gmail.com<br>
+<br>
+gordin95t@gmail.com
+<br>
+## <strong>Authors and acknowledgment<br></strong>
+Gordon Tash Dindi
 
-## Authors and acknowledgment
-Gordon Dindi
-
-## Project status
-In production...
+## <strong>Project status<br></strong>
+In production..
